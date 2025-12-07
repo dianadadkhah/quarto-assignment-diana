@@ -1,0 +1,14 @@
+---
+title: "Quarto Assignment"
+format:
+  html:
+    toc: true
+---
+
+# DSCI 310 Quarto Assignment
+
+This site contains the final report for the assignment.
+
+👉 Click below to view the full report:
+
+- [Horse Population Analysis](reports/qmd_example.qmd)
